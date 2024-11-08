@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_12</name>
+   <tag></tag>
+   <elementGuidId>4256c5eb-7397-4b21-9d0f-3e714fe576e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[17]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;12&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d37158e2-fbeb-4d93-827a-5ce92f586511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>6240bc61-46de-4d5b-8a86-15bd0060d4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>1428dfe8-c6cb-43db-8cdf-3f0f19d5f574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[3]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>ce48de60-2500-43b0-81c9-d40875e0e070</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[17]</value>
+      <webElementGuid>ce94dfcc-a301-45e2-9d7e-427d7db41d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[17]</value>
+      <webElementGuid>a035f872-3ced-40de-b699-a160fee5900d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[26]</value>
+      <webElementGuid>b26d4919-91f4-4352-ba43-59873ac15088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[26]</value>
+      <webElementGuid>51d0a8ba-34ea-44f2-a717-3ee10e1b8299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='12']/parent::*</value>
+      <webElementGuid>f518f857-84d5-4cf7-a18f-0b7cc1397464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]</value>
+      <webElementGuid>c00e14e2-c030-425d-941a-16a8eee4c8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '12' or . = '12')]</value>
+      <webElementGuid>338b558b-6a4b-4a87-893b-314d289561a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
